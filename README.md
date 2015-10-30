@@ -1,2 +1,2 @@
-# FirstRepo
-First repo for D.S. course
+### FirstRepo
+First repo for **D.S.** course
