@@ -1,5 +1,5 @@
 # Class 3 Homework: Chipotle data - HW3MySolutions.py
-# Bruce Aker - 11/9/2015
+# Bruce Aker - 11/9/15
 
 import csv
 from collections import defaultdict
